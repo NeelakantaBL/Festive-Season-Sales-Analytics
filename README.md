@@ -202,6 +202,14 @@ The Python notebook uses **Matplotlib and Seaborn** to create visualizations suc
 
 ---
 
+
+## 📈 Power BI Dashboard
+
+![dashboard_img](dashboard_img.png)
+
+
+---
+
 ## 💡 Key Insights
 
 The analysis highlights several important patterns:
