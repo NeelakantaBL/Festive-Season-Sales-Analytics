@@ -203,7 +203,7 @@ The Python notebook uses **Matplotlib and Seaborn** to create visualizations suc
 ---
 
 
-## 📈 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 ![dashboard_img](dashboard_img.png)
 
@@ -323,12 +323,6 @@ Make sure the `Diwali Sales Data.csv` file is available in the appropriate proje
 * Sales Analysis
 * Business Insights
 * Data Storytelling
-
----
-
-## 📄 Resume Project
-
-**Diwali Sales Data Analysis | Python, Pandas, Seaborn**
 
 ---
 
